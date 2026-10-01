@@ -8,3 +8,4 @@ Cambio hecho en conflicto-demo.
 Este cambio se enviará GitHub.
 Cambio realizado directamente desde GitHub.
 Nueva funcionalidad en desarrollo.
+Cambio nuevo en master para demostrar rebase.
