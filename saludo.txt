@@ -5,3 +5,4 @@ Este cambio pertenece a saludo-mejorado.
 Cambio realizado en experimento.
 Cambio hecho directamente en master.
 Cambio hecho en conflicto-demo.
+Este cambio se enviará GitHub.
