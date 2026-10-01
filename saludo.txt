@@ -1,2 +1,3 @@
 Hola Git.
 Estoy aprendiendo Git.
+Esta línea sí la quiero conservar.
