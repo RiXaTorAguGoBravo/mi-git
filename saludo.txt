@@ -9,3 +9,4 @@ Este cambio se enviará GitHub.
 Cambio realizado directamente desde GitHub.
 Nueva funcionalidad en desarrollo.
 Cambio nuevo en master para demostrar rebase.
+Cambio realizado directamente en master mientras se trabaja en el Pull Request.
